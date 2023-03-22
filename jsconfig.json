@@ -15,5 +15,11 @@
       "dom.iterable",
       "scripthost"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    }
   }
+  
 }
